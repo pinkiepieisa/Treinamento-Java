@@ -1,0 +1,12 @@
+import javax.swing.*;
+
+package src;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		
+		String nome = JOptionPane.showInputDialog("Qual é o seu nome? ");
+	}
+
+}
